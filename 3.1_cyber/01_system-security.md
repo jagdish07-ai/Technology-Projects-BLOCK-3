@@ -12,9 +12,12 @@ Run:
 
 ### Questions
 
-1.  How many users exist on the system?
-2.  Which accounts appear to be system accounts?
-3.  Why do operating systems create system accounts?
+1.  How many users exist on the system? The number of users depends on the linux system. To count all accounts listed in etc/passwd,run;
+
+2.  Which accounts appear to be system accounts? common system accounts include;
+   
+   
+4.  Why do operating systems create system accounts?
 
 ### Reflection
 
