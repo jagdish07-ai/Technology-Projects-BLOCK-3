@@ -13,11 +13,17 @@ Run:
 ### Questions
 
 1.  What does the tool say about the password?
-2.  Why is this password weak?
+   - it is based on a dictionary word.
+3.  Why is this password weak?
+- The password password123 is weak because
+- It uses a very common word: " password".
+- it contains a predictable number sequence : "123".
+- it is easy for attackers to guess.
 
 ### Reflection
 
 Explain why weak passwords are dangerous.
+- weak passwords are dangerous because they are easy for hackers to guess or crack.
 
 ------------------------------------------------------------------------
 
@@ -35,6 +41,7 @@ Run:
 
 1.  What result did the tool return?
 2.  What characteristics make this password stronger?
+   - length, uppercase letters, lowercase letters, numbers, special characters, combination
 
 ### Reflection
 
@@ -53,10 +60,14 @@ Evaluate the following passwords:
 
 ### Questions
 
-1.  Which passwords are weak?
-2.  Which password is strongest?
-3.  Why?
+1.  Which passwords are weak?-  123456 because there is only number.
+
+3.  Which password is strongest?- P@ssword1 because there is combination of upperlower, uppercase letters ,number and special.
+4.  Why?
 
 ### Reflection
 
 Explain what you learned about password strength.
+- combination of length, uppercase letters, lowercase letters, numbers, special characters etc.
+
+-
